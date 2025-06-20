@@ -24,7 +24,7 @@ arma is a powerful CLI tool that supports:
 ### Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/arma.git
+git clone https://github.com/arnobmonir/arma
 cd arma
 python3 -m venv venv
 source venv/bin/activate
