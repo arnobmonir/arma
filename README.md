@@ -1,19 +1,4 @@
 # arma - Advanced Resource Media Assistant
-                                 /$$      /$$                
-                                | $$$    /$$$                
-  /$$$$$$         /$$$$$$       | $$$$  /$$$$        /$$$$$$ 
- |____  $$       /$$__  $$      | $$ $$/$$ $$       |____  $$
-  /$$$$$$$      | $$  \__/      | $$  $$$| $$        /$$$$$$$
- /$$__  $$      | $$            | $$\  $ | $$       /$$__  $$
-|  $$$$$$$      | $$            | $$ \/  | $$      |  $$$$$$$
- \_______/      |__/            |__/     |__/       \_______/
-                                                             
-                                                             
-Advanced Downloader for M3U8, DASH, and Direct Files
-@version 1.0 by Arnob
-
-
----
 ## 🚀 arMa Overview
 arma is a powerful CLI tool that supports:
 - ✅ M3U8 (HLS) stream downloads
